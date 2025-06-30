@@ -12,9 +12,11 @@ A modern and visually appealing landing page for a Japanese food delivery servic
 - Navigation menu: Menu, Food, Services, About Us
 
 ## 📁 Folder Structure
-├── assets/ # Icons and images
-├── css/ # Styling files (main.css, responsive.css)
-├── js/ # JavaScript functionality (animations, toggles)
-├── public/ # Fonts, logos, and other public assets
-├── index.html # Main HTML file
-└── README.md # Project overview
+
+├── assets/        # Icons and images  
+├── css/           # Styling files (main.css, responsive.css)  
+├── js/            # JavaScript functionality (animations, toggles)  
+├── public/        # Fonts, logos, and other public assets  
+├── index.html     # Main HTML file  
+└── README.md      # Project overview
+
